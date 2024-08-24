@@ -9,5 +9,7 @@ Currently, two official plugins are available:
 # Comandos
 - npm createv vite@latest
 - cd nome-do-projeto
-- npm i
-- npm run dev
+- npm i --> instalar arquivos necessários para rodar o site
+- npm run dev --> rodar o site
+- npm i react-router-dom --> distribuição de rotas
+- Baixar extenção: Simple React Snippets
